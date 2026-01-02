@@ -2,5 +2,6 @@
 *.tfstate
 *.tfstate.backup
 *.tflockfile
-
+*.lock.hcl
 .env
+.terraform.lock.hcl
